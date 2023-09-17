@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.533016mm"
+   height="13.267767mm"
+   viewBox="0 0 12.533016 13.267767"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="site.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.9126263"
+     inkscape:cx="17.124048"
+     inkscape:cy="278.71305"
+     inkscape:window-width="1292"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="209.5"
+       y="181.5"
+       width="56"
+       height="92"
+       id="rect30" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.359178,-60.425444)">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.654548;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path28"
+       cx="44.625687"
+       cy="67.059326"
+       rx="5.9392347"
+       ry="6.3066101" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.44047841,0,0,0.42050147,-52.119926,-19.394721)"
+       id="text29"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;letter-spacing:0px;white-space:pre;shape-inside:url(#rect30);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="209.5"
+         y="216.5"
+         id="tspan1">+</tspan></text>
+  </g>
+</svg>
