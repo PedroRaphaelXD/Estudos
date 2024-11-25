@@ -19,14 +19,14 @@ tipo_cliente = str(input("Olá, você é aposentado ou estudante?"))
 
 valor_produto = float(input("Digite o valor total do produto que você deseja comprar: "))
 
-if tipo_cliente == "Aposentado" and "aposentado":
-    valor_produtototal = valor_produto
-    print(f"Você recebeu o desconto aposentado da nossa loja, seu produto total ficará: {valor_produtototal}")
+if tipo_cliente == "Aposentado":
+    valor_produto_total = valor_produto - (valor_produto * (15/100))
+    print(f"Você recebeu o desconto aposentado da nossa loja, seu produto total ficará: {valor_produto_total}")
 
-elif tipo_cliente == "Estudante" and "estudante":
-    valor_produtototal = valor_produto
-    print(f"Você recebeu o desconto estudante! O valor total do seu produto ficará: {valor_produtototal}")
+elif tipo_cliente == "Estudante":
+    valor_produto_total = valor_produto - (valor_produto * (10/100))
+    print(f"Você recebeu o desconto estudante! O valor total do seu produto ficará: {valor_produto_total}")
 
 else:
-    valor_produtototal = valor_produto
-    print(f"Você recebeu apenas 5% de desconto da nossa loja! O valor total do seu produto ficará: {valor_produtototal}")
+    valor_produto_total = valor_produto - (valor_produto * (5/100))
+    print(f"Você recebeu apenas 5% de desconto da nossa loja! O valor total do seu produto ficará: {valor_produto_total}")
